@@ -17,12 +17,13 @@
   flex-wrap: wrap;
   padding-left: 200px;
   padding-right: 200px;
+  flex-direction: column;
 }
 .image {
-	align-self: center;
 	max-height: 400px;
 	max-width: 400px;
 }
-/*.container {
-
+.input-group {
+	height: 200px;
+	width: 200px;
 }
